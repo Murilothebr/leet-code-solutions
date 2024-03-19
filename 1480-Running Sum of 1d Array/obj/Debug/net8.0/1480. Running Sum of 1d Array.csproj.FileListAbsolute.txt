@@ -1,0 +1,28 @@
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.exe
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.deps.json
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.runtimeconfig.json
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.dll
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.pdb
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.AssemblyInfoInputs.cache
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.AssemblyInfo.cs
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.dll
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\refint\1480. Running Sum of 1d Array.dll
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.pdb
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.genruntimeconfig.cache
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\1480. Running Sum of 1d Array\obj\Debug\net8.0\ref\1480. Running Sum of 1d Array.dll
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.exe
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.deps.json
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.runtimeconfig.json
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.dll
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\bin\Debug\net8.0\1480. Running Sum of 1d Array.pdb
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.AssemblyInfoInputs.cache
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.AssemblyInfo.cs
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.dll
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\refint\1480. Running Sum of 1d Array.dll
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.pdb
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\1480. Running Sum of 1d Array.genruntimeconfig.cache
+C:\Users\muril\Repos -- pessoal\leet-code-solutions\1480. Running Sum of 1d Array\obj\Debug\net8.0\ref\1480. Running Sum of 1d Array.dll
