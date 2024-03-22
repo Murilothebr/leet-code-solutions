@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             int[] arr = { 2, 3, 5, 1, 3 };
-
             var x = KidsWithCandies(arr, 3);
             Console.WriteLine(x);
         }
