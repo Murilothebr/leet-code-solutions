@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Can Place Flower", "Can Place Flower.csproj", "{6B55F3A4-E89C-431D-8386-3027970D0F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B55F3A4-E89C-431D-8386-3027970D0F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B55F3A4-E89C-431D-8386-3027970D0F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B55F3A4-E89C-431D-8386-3027970D0F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B55F3A4-E89C-431D-8386-3027970D0F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB5A074C-B6DD-45AC-8F01-949E8222B57F}
+	EndGlobalSection
+EndGlobal
