@@ -6,7 +6,9 @@ internal class Program
     {
         int[] nums = { 9, 1, 4, 7, 3, -1, 0, 5, 8, -1, 6 };
 
-        Console.WriteLine(LongestConsecutive(nums));
+        var a = LongestConsecutive(nums);
+
+        Console.WriteLine(a);
     }
 
     public static int LongestConsecutive(int[] nums)
@@ -14,16 +16,18 @@ internal class Program
         if (nums == null || nums.Length == 0) 
             return 0;
 
-        List<int> ints = new List<int>(nums);
-        int minor = ints.Min();
+        List<int> ints = new List<int>(nums); 
+        int minor = nums.Min();
         int count = 1;
 
         while (true)
         {
-            if (ints.Contains(minor + 1)) 
+            if (nums.Contains(minor + 1) || nums.Contains(minor)) 
             {
                 count += 1;
                 minor += 1;
+
+                ints.Remove(minor);
 
                 continue;
             }

@@ -16,17 +16,14 @@ internal class Program
 
     public static bool IsPalindrome(string s)
     {
-        if(s.Equals(""))
+        if (s.Equals(""))
             return true;
-        
-        s = s.ToLower().Replace(" ", "");
+
+        s = s.ToLower();
 
         s = Regex.Replace(s, @"[^a-zA-Z0-9]", "");
 
-        var regularChar = s.ToCharArray();
-        var inverse = regularChar.Reverse().ToArray();
-
-        return regularChar.SequenceEqual(inverse);
+        return s.ToCharArray().SequenceEqual(s.ToCharArray().Reverse().ToArray());
     }
 }
     
