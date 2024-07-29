@@ -23,7 +23,15 @@ internal class Program
 
         s = Regex.Replace(s, @"[^a-zA-Z0-9]", "");
 
-        return s.ToCharArray().SequenceEqual(s.ToCharArray().Reverse().ToArray());
+
+        int left = 0, right = s.Length - 1;
+
+        while (left < right) 
+        {
+            if (s[left++] != s[right--])
+                return false;
+        }
+
+        return true;
     }
 }
-    
