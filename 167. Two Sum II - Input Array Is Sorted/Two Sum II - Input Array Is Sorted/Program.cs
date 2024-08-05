@@ -6,7 +6,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var number = TwoSum([5, 25, 75], 100);
+        var number = TwoSum([2, 7, 11, 15], 9);
 
         Console.WriteLine(number);
     }
@@ -17,10 +17,11 @@ internal class Program
 
         var left = 0;
         var right = numbers.Length - 1;
+        var mid = right / 2;
 
-        if (numbers[0] + numbers[right / 2] > target )
+        if (numbers[0] + numbers[mid] > target )
         {
-            right = right / 2;
+            right = mid;
         }
 
         while (left < right)
@@ -37,7 +38,6 @@ internal class Program
                 copy--;
             }
 
-            copy = right;
             left++;
         }
 
