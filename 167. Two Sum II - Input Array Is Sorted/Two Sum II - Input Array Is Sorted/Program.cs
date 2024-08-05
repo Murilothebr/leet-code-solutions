@@ -6,28 +6,41 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var x = ReverseWords("a good   example");
+        var number = TwoSum([5, 25, 75], 100);
 
-
-        Console.WriteLine(x);
+        Console.WriteLine(number);
     }
 
-    public static string ReverseWords(string s)
+    public static int[] TwoSum(int[] numbers, int target)
     {
-        List<string> chunk = new List<string>();
-        string reverted = "";
+        var answer = new int[2];
 
-        foreach (string s2 in s.Split(" "))
+        var left = 0;
+        var right = numbers.Length - 1;
+
+        if (numbers[0] + numbers[right / 2] > target )
         {
-            if(s2 != "")
-                chunk.Add(s2);
+            right = right / 2;
         }
 
-        for (int i = chunk.Count - 1; i >= 0; i--)
+        while (left < right)
         {
-            reverted += chunk[i] + " ";
+            var copy = right;
+            while (left < copy)
+            {
+                if (numbers[left] + numbers[copy] == target)
+                {
+                    answer[0] = left + 1;
+                    answer[1] = copy + 1;
+                }
+
+                copy--;
+            }
+
+            copy = right;
+            left++;
         }
 
-        return reverted.Trim();
+        return answer;
     }
 }
